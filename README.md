@@ -1,3 +1,13 @@
+---
+spec_version: "1.0.0"
+valid_from: "2026-01-13"
+last_updated: "2026-01-13"
+supersedes: null
+status: "active"
+category: "meta"
+tags: ["readme", "documentation", "metaspecs", "overview"]
+---
+
 # Thatix Site - MetaSpecs
 
 Este repositório contém toda a documentação técnica e de produto (MetaSpecs) para o desenvolvimento e manutenção do site institucional da Thatix.
